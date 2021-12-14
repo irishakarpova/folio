@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/ConfigMenu2.js"],"names":["ConfigMenuComponent"],"mappings":"0GAAA,wEAGe,SAASA,IACtB,OAAO,cAAC,IAAD","file":"static/js/178.c8e660f8.chunk.js","sourcesContent":["import React from \"react\";\nimport ConfigMenuPage from \"configmenu\";\n\nexport default function ConfigMenuComponent() {\n  return <ConfigMenuPage />;\n}\n"],"sourceRoot":""}

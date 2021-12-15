@@ -1,0 +1,107 @@
+<svg id="p-schema" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1564" height="842" viewBox="0 0 1564 842">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="77" height="384" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="77" height="284" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="328" height="168" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_59" data-name="Rectangle 59" width="750" height="812" rx="16" transform="translate(30 30)" fill="#6b9670"/>
+  <rect id="Rectangle_58" data-name="Rectangle 58" width="750" height="812" rx="16" transform="translate(20 20)" fill="#f7b4c6"/>
+  <rect id="Rectangle_57" data-name="Rectangle 57" width="750" height="812" rx="16" transform="translate(10 10)" fill="#9c81bc"/>
+  <g id="Rectangle_55" data-name="Rectangle 55" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="750" height="812" rx="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="749" height="811" rx="15.5" fill="none"/>
+  </g>
+  <g id="Rectangle_55-2" data-name="Rectangle 55" transform="translate(814)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="750" height="812" rx="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="749" height="811" rx="15.5" fill="none"/>
+  </g>
+  <path id="Rectangle_51" data-name="Rectangle 51" d="M13,0H500a13,13,0,0,1,13,13v88a13,13,0,0,1-13,13H13A13,13,0,0,1,0,101V13A13,13,0,0,1,13,0Z" transform="translate(118 214)" fill="#ccc"/>
+  <rect id="Rectangle_51-2" data-name="Rectangle 51" width="513" height="114" rx="13" transform="translate(118 348)" fill="#f7f7f7"/>
+  <path id="Rectangle_51-3" data-name="Rectangle 51" d="M13,0H500a13,13,0,0,1,13,13v88a13,13,0,0,1-13,13H13A13,13,0,0,1,0,101V13A13,13,0,0,1,13,0Z" transform="translate(118 482)" fill="#f7f7f7"/>
+  <path id="Rectangle_51-4" data-name="Rectangle 51" d="M13,0H500a13,13,0,0,1,13,13v88a13,13,0,0,1-13,13H13A13,13,0,0,1,0,101V13A13,13,0,0,1,13,0Z" transform="translate(118 616)" fill="#f7f7f7"/>
+  <path id="Rectangle_52" data-name="Rectangle 52" d="M13,0H500a13,13,0,0,1,13,13V503a13,13,0,0,1-13,13H13A13,13,0,0,1,0,503V13A13,13,0,0,1,13,0Z" transform="translate(927 214)" fill="#ccc"/>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(967 271)" clip-path="url(#clip-path)">
+    <g transform="translate(-967 -271)">
+      <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(967 271)" clip-path="url(#clip-path-2)">
+        <g id="Group_1" data-name="Group 1" transform="translate(-1285 -459)">
+          <rect id="Rectangle_53" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(-1285 -362)">
+          <rect id="Rectangle_53-2" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(-1285 -265)">
+          <rect id="Rectangle_53-3" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(-967 20)">
+      <g id="Repeat_Grid_6-2" data-name="Repeat Grid 6" transform="translate(967 271)" clip-path="url(#clip-path-2)">
+        <g id="Group_1-2" data-name="Group 1" transform="translate(-1285 -459)">
+          <rect id="Rectangle_53-4" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+        <g id="Group_2-2" data-name="Group 2" transform="translate(-1285 -362)">
+          <rect id="Rectangle_53-5" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+        <g id="Group_3-2" data-name="Group 3" transform="translate(-1285 -265)">
+          <rect id="Rectangle_53-6" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="100" height="15" transform="translate(1075 271)" fill="#fff"/>
+  <rect id="Rectangle_54-2" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 307)" fill="#fff"/>
+  <rect id="Rectangle_54-3" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 343)" fill="#fff"/>
+  <rect id="Rectangle_54-4" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 379)" fill="#fff"/>
+  <rect id="Rectangle_54-5" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 415)" fill="#fff"/>
+  <rect id="Rectangle_54-6" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 451)" fill="#fff"/>
+  <rect id="Rectangle_54-7" data-name="Rectangle 54" width="328" height="15" transform="translate(1075 487)" fill="#fff"/>
+  <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(1075 523)" clip-path="url(#clip-path-4)">
+    <g transform="translate(-1075 -523)">
+      <rect id="Rectangle_54-8" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-837 -523)">
+      <rect id="Rectangle_54-9" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1075 -488)">
+      <rect id="Rectangle_54-10" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-837 -488)">
+      <rect id="Rectangle_54-11" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1075 -453)">
+      <rect id="Rectangle_54-12" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-837 -453)">
+      <rect id="Rectangle_54-13" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1075 -418)">
+      <rect id="Rectangle_54-14" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-837 -418)">
+      <rect id="Rectangle_54-15" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1075 -383)">
+      <rect id="Rectangle_54-16" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+    <g transform="translate(-837 -383)">
+      <rect id="Rectangle_54-17" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+    </g>
+  </g>
+  <line id="Line_5" data-name="Line 5" x2="283" transform="translate(631.5 278.5)" fill="none" stroke="#707070" stroke-width="4"/>
+  <g id="Polygon_5" data-name="Polygon 5" transform="translate(927.5 262.976) rotate(90)">
+    <path id="Path_1" data-name="Path 1" d="M30.182,26.315H.867L15.524,1Z" fill="#707070"/>
+    <path id="Path_2" data-name="Path 2" d="M15.524,2,1.734,25.815h27.58L15.524,2m0-2L31.049,26.815H0Z" fill="#707070"/>
+  </g>
+  <text id="Product_page_by_ID" data-name="Product page by ID" transform="translate(1061 58)" fill="#707070" font-size="28" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Product page by ID</tspan></text>
+  <rect id="Rectangle_56" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(120 133)" fill="#4b4b4b"/>
+  <rect id="Rectangle_56-2" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(248 133)" fill="#9c81bc"/>
+  <rect id="Rectangle_56-3" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(376 133)" fill="#f7b4c6"/>
+  <rect id="Rectangle_56-4" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(504 133)" fill="#6b9670"/>
+  <text id="Products_list_with_dynamic_routes_by_category" data-name="Products list with dynamic routes by category" transform="translate(89 58)" fill="#707070" font-size="28" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Products list with dynamic routes by category</tspan></text>
+</svg>

@@ -16,8 +16,8 @@
     "static/js/6.04afae3a.chunk.js.map": "/static/js/6.04afae3a.chunk.js.map",
     "static/js/7.7b1b3c14.chunk.js": "/static/js/7.7b1b3c14.chunk.js",
     "static/js/7.7b1b3c14.chunk.js.map": "/static/js/7.7b1b3c14.chunk.js.map",
-    "main.js": "/static/js/main.90a42a1b.chunk.js",
-    "main.js.map": "/static/js/main.90a42a1b.chunk.js.map",
+    "main.js": "/static/js/main.60ae57c8.chunk.js",
+    "main.js.map": "/static/js/main.60ae57c8.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.6f77ac81.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.6f77ac81.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.9d43292e.chunk.js",
@@ -393,7 +393,7 @@
     "static/media/nestedBar.0813f232.svg": "/static/media/nestedBar.0813f232.svg",
     "static/media/nestedRows2.ae21fdb4.svg": "/static/media/nestedRows2.ae21fdb4.svg",
     "static/media/shareData.edf8b151.svg": "/static/media/shareData.edf8b151.svg",
-    "static/media/ssr.d53bcaea.svg": "/static/media/ssr.d53bcaea.svg",
+    "static/media/ssr.d9fa4645.svg": "/static/media/ssr.d9fa4645.svg",
     "static/media/ssr_1.582bb821.svg": "/static/media/ssr_1.582bb821.svg",
     "static/media/ssr_2.f5118900.svg": "/static/media/ssr_2.f5118900.svg",
     "static/media/alert-msg.css": "/static/media/warning_msg.ea863a89.svg",
@@ -406,6 +406,6 @@
   "entrypoints": [
     "static/js/runtime-main.f2f9b3d6.js",
     "static/js/163.6495b3e5.chunk.js",
-    "static/js/main.90a42a1b.chunk.js"
+    "static/js/main.60ae57c8.chunk.js"
   ]
 }
